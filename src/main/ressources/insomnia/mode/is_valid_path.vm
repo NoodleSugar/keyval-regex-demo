@@ -1,0 +1,2 @@
+#Test if the path is valid (-p option)
+$q.isValidPath()

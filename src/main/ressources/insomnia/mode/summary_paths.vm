@@ -1,0 +1,2 @@
+##Print all the valid paths of the summary
+$q.SummaryPaths

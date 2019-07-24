@@ -1,0 +1,2 @@
+##Print all the possible path of the regex automaton
+$q.Paths

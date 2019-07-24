@@ -1,0 +1,2 @@
+##Print the mongo queries
+$q.Queries

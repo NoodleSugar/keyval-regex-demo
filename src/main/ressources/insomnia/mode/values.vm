@@ -1,0 +1,2 @@
+ ##Print all values that have a valid path
+$q.Values
